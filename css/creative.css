@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Style+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+h1{font-family: 'Fredoka One', cursive;}
+body {font-family: 'Nunito', sans-serif;
+background-image: url('https://1.bp.blogspot.com/-l8LxLOEavJ0/YLfCKti8DVI/AAAAAAAAOtQ/2ouozNvzOxsDyfuB3GKjWNKpqyi2o5v3gCLcBGAsYHQ/s2048/26685358_10211354339715173_2778689855098316495_o.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center; 
+background-size: cover;}
+a {color: black; text-decoration: none;}
+h2,h3,.sign {font-family: 'Style Script', cursive;}
+.img-fluid {
+  border-radius: 3%;
+}
+.sip {border-radius: 2%;}
+.dark {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%)  contrast(120%);
+}
