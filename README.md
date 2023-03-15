@@ -10,6 +10,8 @@ Demo : [https://axcora.my.id/bludit/creativeart](https://axcora.my.id/bludit/cre
 
 Documentation : [https://axcora.my.id/bludit/creativeart/installation](https://axcora.my.id/bludit/creativeart/installation)
 
+Home page : [https://bludit.axcora.com/](https://bludit.axcora.com/)
+
 If you need built simple fast website with flatfile cms [hire me](https://www.fiverr.com/creativitas/design-your-website-with-phyton-django)
 
 --------
@@ -23,6 +25,8 @@ Test Peform
 Demo : [https://axcora.my.id/bludit/creativeart](https://axcora.my.id/bludit/creativeart)
 
 Documentation : [https://axcora.my.id/bludit/creativeart/installation](https://axcora.my.id/bludit/creativeart/installation)
+
+Home page : [https://bludit.axcora.com/](https://bludit.axcora.com/)
 
 If you need built simple fast website with flatfile cms [hire me](https://www.fiverr.com/creativitas/design-your-website-with-phyton-django)
 
