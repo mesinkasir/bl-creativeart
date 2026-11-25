@@ -1,8 +1,0 @@
-{
-	"plugin-data":
-	{
-		"name": "Creative Categories",
-		"description": "サイドバーにすべてのカテゴリを表示します。"
-	},
-	"hide-categories-without-content": "コンテンツのないカテゴリを非表示にする"
-}

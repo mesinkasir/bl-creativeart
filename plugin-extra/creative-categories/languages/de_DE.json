@@ -1,8 +1,0 @@
-{
-	"plugin-data":
-	{
-		"name": "Creative Kategorien",
-		"description": "Zeigt alle Kategorien in der Seitenleiste (bei Themes mit einer Seitenleiste)."
-	},
-	"hide-categories-without-content": "Kategorien ohne Inhalte ausblenden"
-}

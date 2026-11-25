@@ -6,11 +6,15 @@
 
 Art website portfolio for bludit flatfile cms
 
+Download New Version : https://creativitaz.gumroad.com/l/bl-creative
+
+Official : [https://bludit.axcora.com/](https://bludit.axcora.com/)
+
+Explore Bludit Projects: https://www.hockeycomputindo.com/themes/bludit
+
 Demo : [https://axcora.my.id/bludit/creativeart](https://axcora.my.id/bludit/creativeart)
 
 Documentation : [https://axcora.my.id/bludit/creativeart/installation](https://axcora.my.id/bludit/creativeart/installation)
-
-Home page : [https://bludit.axcora.com/](https://bludit.axcora.com/)
 
 If you need built simple fast website with flatfile cms [hire me](https://www.fiverr.com/creativitas/design-your-website-with-phyton-django)
 
@@ -23,6 +27,12 @@ Test Peform
 --------
 
 Demo : [https://axcora.my.id/bludit/creativeart](https://axcora.my.id/bludit/creativeart)
+
+Art website portfolio for bludit flatfile cms
+
+Download : https://creativitaz.gumroad.com/l/bl-creative
+
+Official : [https://bludit.axcora.com/](https://bludit.axcora.com/)
 
 Documentation : [https://axcora.my.id/bludit/creativeart/installation](https://axcora.my.id/bludit/creativeart/installation)
 
