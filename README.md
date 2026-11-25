@@ -2,6 +2,8 @@
 
 --------
 
+Download New Version : https://creativitaz.gumroad.com/l/bl-creative
+
 ![Free download bludit themes cms](creativeart.webp)
 
 Art website portfolio for bludit flatfile cms
